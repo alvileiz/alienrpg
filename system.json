@@ -17,7 +17,7 @@
   "secondaryTokenAttribute": "power",
   "url": "-",
   "manifest": "-",
-  "download": "https://github.com/alvileiz/alienrpg/blob/master/system.json",
+  "download": "https://github.com/alvileiz/alienrpg/",
   "license": "-"
   "scripts": [
     ".hooks/dicesonicealien.js"
